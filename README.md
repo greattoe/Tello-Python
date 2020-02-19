@@ -10,11 +10,9 @@
 
 
 
-
-
 ## Project Description
 
-이 툴킷( Toolkit )에는 **tello sdk** 와 **python2.7** 을 기반으로하는 `Single_Tello_Test`, `Tello_Video` 및 `Tello_Video_With _Pose_Recognition` 을 포함한 세 가지 샘플 프로그램과 `tello_state.py` 라는 프로그램 파일 또한 포함되어 있다.
+이 툴킷( Toolkit )에는 **tello sdk** 와 **python2.7** 을 기반으로하는 `Single_Tello_Test`, `Tello_Video` 및 `Tello_Video_With _Pose_Recognition` 을 포함한 세 가지 샘플 코드와 **Tello** 의 여러가지 상태값을 모니터링 할 수 있는  `tello_state.py` 코드가 포함되어있다.
 
 
 
@@ -42,21 +40,14 @@
 
 
 
-
-
 ## Environmental configuration
 
 * 이상의 샘플 코드들은 **python 2.7** 을 기반으로 작성되었다. 
-
 * `Single_Tello_Test` 및 `tello_state.py` 의 실행을 위해선 추가 라이브러리가 필요가 없다.
-
 * `Tello_Video` 및 `Tello_Video_With_Pose_Recognition` 의 경우 추가 라이브러리가 필요하다. 
-
 * 제공되는 각 폴더에 있는 원 클릭 설치 스크립트( Windows32 / 64, Linux, Mac OS )를 이용하여 필요한 추가 라이브러리들을 쉽게 설치할 수 있다.
-
 * 세부 사항은 각 패키지 폴더의 readme 파일을 참조한다.
-
-
+* [**64bit 윈도우 환경에서의 환경설정**](./0_how2config/how2config.md)
 
 
 
@@ -76,6 +67,8 @@
 의 정보를 참고하시오.
 
 
+
+------
 
 
 

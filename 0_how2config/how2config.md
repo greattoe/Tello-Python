@@ -20,11 +20,11 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
 * 파일 탐색기에서 다운로드한 설치파일을 마우스 오른쪽 버튼 클릭으로 선택한 후  **설치(I)** 를 선택한다.
 
-<img src="./img/install_python_2_7_17.png" style="zoom:40%;" />
+<img src="./img/install_python_2_7_17.png" width="390" />
 
 * **'Install just for me (...)'** 를 선택한 후, **Next >** 버튼을 클릭한다.
 
-  <img src="./img/installpython27SelectUser.png" style="zoom: 55%;" />
+  <img src="./img/installpython27SelectUser.png" width="390" />
 
 * 이 후에 나타나는 선택창은 기본값으로 진행하여 설치를 마친다.
 
@@ -40,7 +40,7 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
 * 내 PC 의 속성을 연 후 **고급 시스템** 설정을 클릭한다. 
 
-  <img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\open_attrib_mypc.png" style="zoom:53%;" /> <img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\advanced_option_system.png" style="zoom: 40%;" />
+  <img src=".\img\open_attrib_mypc.png" width="290" /> <img src=".\img\advanced_option_system.png" width="490" />
 
 * 환경변수 설정 팝업 창에서 **'사용자 변수(U)'** 항목 중 **'Path'** 를 선택 후, **'편집(E)'** 을 클릭하여 환경 변수 편집창을 연다. 
 
@@ -50,7 +50,7 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
   ( 앞서 파이썬 설치과정에서 **'Install just for me (...)'** 옵션을 선택했으므로 **'시스템 변수(U)'** 는 변경할 필요가 없다. )
   
-  <img src="./img/edit_env_variable_1.png" style="zoom:50%;" />                           <img src="./img/edit_env_variable_3.png" style="zoom:50%;" />
+  <img src="./img/edit_env_variable_1.png" width="390" />      <img src="./img/edit_env_variable_3.png" width="390" />
 
 * 변경된 사용자 환경변수 반영을 위해 로그아웃 후 다시 로그인 한다.
 

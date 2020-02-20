@@ -118,7 +118,7 @@ libboost-python 는 파이썬에서 C++ API를 쉽고 빠르게 사용할 수 �
 
 * libboost 가 설치된 폴더( 설치 옵션 변경없이 설치했다면 `C:\Local\boost_1_68_0` ) 의 하위 폴더 중 `lib64-msvc-12.0` 폴더에서 `boost_python27-vc120-mt-x64-1_68.dll` 파일을  `C:\Python27\Lib\site-packages` 로 복사한다. 
 
-  <img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\boost_python_1.png" style="zoom: 55%;" /> <img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\boost_python_2.png" style="zoom:55%;" />
+  <img src="./img/boost_python_1.png" width="390" /> &nbsp;  <img src="./img/boost_python_2.png" width="390" />
 
 #### 4.2 ffmpeg
 
@@ -150,7 +150,7 @@ Single_Tello_Test **[**    **]**     Tello_Video **[**    **]**     Tello_Video_
 
 그 중  `Tello_Video_With_Pose_Recognition\models\pose\mpi` 폴더에 `pose_deploy_linevec.prototxt` 파일( pose 인식을 위한 weight 파일 )이 없으므로, 이 파일을 설치하기 위해 `models` 폴더의 `install.bat` 파일을 실행한다.
 
-<img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\inst_weight_pose_recog1.png" style="zoom: 63%;" /><img src="D:\Dropbox\_lectures\_Tello_Python_\dependencies\howto\img\inst_weight_pose_recog2.png" style="zoom: 63%;" />
+<img src="./img/inst_weight_pose_recog1.png" width="390" /><img src="./img/inst_weight_pose_recog2.png" width="390" />
 
 
 

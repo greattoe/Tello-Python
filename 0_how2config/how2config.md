@@ -48,7 +48,7 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
   ( 앞서 파이썬 설치과정에서 **'Install just for me (...)'** 옵션을 선택했으므로 **'시스템 변수(U)'** 는 변경할 필요가 없다. )
   
-  <img src="./img/edit_env_variable_1.png" width="360" />  <img src="./img/edit_env_variable_3.png" width="403" />
+  <img src="./img/edit_env_variable_1.png" width="360" /> &nbsp; <img src="./img/edit_env_variable_3.png" width="404" />
 
 * 변경된 사용자 환경변수 반영을 위해 로그아웃 후 다시 로그인 한다.
 

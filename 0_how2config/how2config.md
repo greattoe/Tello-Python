@@ -20,7 +20,9 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
 * 파일 탐색기에서 다운로드한 설치파일을 마우스 오른쪽 버튼 클릭으로 선택한 후  **설치(I)** 를 선택한다.<img src="./img/install_python_2_7_17.png" width="390" />
 
-* **'Install just for me (...)'** 를 선택한 후, **Next >** 버튼을 클릭한다.<img src="./img/installpython27SelectUser.png" width="390" />
+* **'Install just for me (...)'** 를 선택한 후, **Next >** 버튼을 클릭한다.
+
+  <img src="./img/installpython27SelectUser.png" width="390" />
 
 * 이 후에 나타나는 선택창은 기본값으로 진행하여 설치를 마친다.
 
@@ -46,7 +48,7 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
   ( 앞서 파이썬 설치과정에서 **'Install just for me (...)'** 옵션을 선택했으므로 **'시스템 변수(U)'** 는 변경할 필요가 없다. )
   
-  <img src="./img/edit_env_variable_1.png" width="360" />  <img src="./img/edit_env_variable_3.png" width="400" />
+  <img src="./img/edit_env_variable_1.png" width="360" />  <img src="./img/edit_env_variable_3.png" width="403" />
 
 * 변경된 사용자 환경변수 반영을 위해 로그아웃 후 다시 로그인 한다.
 

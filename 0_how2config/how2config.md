@@ -20,7 +20,7 @@ Single_Tello_Test **[** v **]**     Tello_Video **[** v **]**     Tello_Video_Wi
 
 * 파일 탐색기에서 다운로드한 설치파일을 마우스 오른쪽 버튼 클릭으로 선택한 후  **설치(I)** 를 선택한다.
 
-<img src="./img/install_python_2_7_17.png" style="zoom:67%;" />
+<img src="./img/install_python_2_7_17.png" style="zoom:40%;" />
 
 * **'Install just for me (...)'** 를 선택한 후, **Next >** 버튼을 클릭한다.
 

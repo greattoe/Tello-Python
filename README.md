@@ -47,7 +47,7 @@
 * `Tello_Video` 및 `Tello_Video_With_Pose_Recognition` 의 경우 추가 라이브러리가 필요하다. 
 * 제공되는 각 폴더에 있는 원 클릭 설치 스크립트( Windows32 / 64, Linux, Mac OS )를 이용하여 필요한 추가 라이브러리들을 쉽게 설치할 수 있다.
 * 세부 사항은 각 패키지 폴더의 readme 파일을 참조한다.
-* [**64bit 윈도우 환경에서의 환경설정**](./0_how2config/how2config.md)
+* [**64bit 윈도우 개발환경 설정**](./0_how2config/how2config.md)
 
 
 

@@ -1,6 +1,6 @@
 ## Tello-Python 예제 실행을 위한 윈도우10 설정
 
-64비트 윈도우10 환경에서 **Tello-Python** 예제를 동작시키기 위한 개발환경 설정
+64비트 윈도우10 환경에서 **Tello-Python** 예제를 동작시키기 위한 개발환경 조성방법
 
 
 
@@ -124,7 +124,7 @@ libboost-python 는 파이썬에서 C++ API를 쉽고 빠르게 사용할 수 �
 
 #### 4.2 ffmpeg
 
-ffmepeg 은 매우 빠른 속도로 비디오/오디오 스트림을 기록, 변환할 수 있는 오픈소스 프로그램 패키지이다. Tello 카메라 영상 스트리밍을 디코딩하기 위한 python h264 decoder 에서 바로 ffmpeg을 이용한다. 
+ffmepeg 은 매우 빠른 속도로 비디오/오디오 스트림을 기록, 변환할 수 있는 오픈소스 프로그램 패키지이다. Tello 카메라 영상 스트리밍을 디코딩하기 위한 python h264 decoder 가 이 ffmpeg을 이용한다. 
 
 * 웹브라우저에서 URL https://ffmpeg.zeranoe.com/builds/ 를 열고, 아래 그림과 같이 Version, Architecture,  Linking 을 각 4.2.2, Windows 64-bit, Shared 를 선택한 후 Download Build 를 클릭한다. 
 
@@ -150,7 +150,7 @@ h264 형식으로 인코딩된 Tello 의 카메라 영상 스트리밍을 디코
 
 자세( pose ) 인식을 위해 'openpose' 라는 라이브러리를 사용하며, Tello_Video_With_Pose_Recognition 폴더의  `models` 폴더에 관련 파일들이 들어 있다. 
 
-그 중  `Tello_Video_With_Pose_Recognition\models\pose\mpi` 폴더에 `pose_deploy_linevec.prototxt` 파일( pose 인식을 위한 weight 파일 )이 없으므로, 이 파일을 설치하기 위해 `models` 폴더의 `install.bat` 파일을 실행한다.
+그 중  `Tello_Video_With_Pose_Recognition\models\pose\mpi` 폴더에 `pose_deploy_linevec.prototxt` 파일( pose 인식을 위한 weight 파일 )이 없으므로, 이 파일을 설치하기 위해 `models` 폴더의 `getModels.bat` 파일을 실행한다.
 
 <img src="./img/inst_weight_pose_recog1.png" width="390" /><img src="./img/inst_weight_pose_recog2.png" width="390" />
 
